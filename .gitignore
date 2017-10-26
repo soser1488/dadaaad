@@ -1,0 +1,5 @@
+settings.py
+users_subs.sqlite
+bot.log
+bot.db.log
+test.py
